@@ -1,0 +1,95 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Drawable\asteroid.png" />
+    <None Remove="Resources\Drawable\galaxy.png" />
+    <None Remove="Resources\Drawable\galaxy_red.png" />
+    <None Remove="Resources\Drawable\loading.png" />
+    <None Remove="Resources\Drawable\moon.png" />
+    <None Remove="Resources\Drawable\moon_small.png" />
+    <None Remove="Resources\Drawable\orbit.png" />
+    <None Remove="Resources\Drawable\orbit_ellipse.png" />
+    <None Remove="Resources\Drawable\planet_brown.png" />
+    <None Remove="Resources\Drawable\planet_cyan.png" />
+    <None Remove="Resources\Drawable\planet_earth.png" />
+    <None Remove="Resources\Drawable\planet_green.png" />
+    <None Remove="Resources\Drawable\planet_jupiter.png" />
+    <None Remove="Resources\Drawable\planet_mars.png" />
+    <None Remove="Resources\Drawable\planet_mercury.png" />
+    <None Remove="Resources\Drawable\planet_neptune.png" />
+    <None Remove="Resources\Drawable\planet_purple.png" />
+    <None Remove="Resources\Drawable\planet_red.png" />
+    <None Remove="Resources\Drawable\planet_saturn.png" />
+    <None Remove="Resources\Drawable\planet_small_blue.png" />
+    <None Remove="Resources\Drawable\planet_small_red.png" />
+    <None Remove="Resources\Drawable\planet_uranus.png" />
+    <None Remove="Resources\Drawable\planet_venus.png" />
+    <None Remove="Resources\Drawable\planet_white.png" />
+    <None Remove="Resources\Drawable\pluton.png" />
+    <None Remove="Resources\Drawable\saturn_small.png" />
+    <None Remove="Resources\Drawable\saturn_tiny.png" />
+    <None Remove="Resources\Drawable\saturn_tiny_red.png" />
+    <None Remove="Resources\Drawable\shooting_star.png" />
+    <None Remove="Resources\Drawable\space_background.png" />
+    <None Remove="Resources\Drawable\space_background_land.png" />
+    <None Remove="Resources\Drawable\star.png" />
+    <None Remove="Resources\Drawable\sun.png" />
+    <None Remove="Resources\Fonts\alagard.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Drawable\asteroid.png" />
+    <EmbeddedResource Include="Resources\Drawable\galaxy.png" />
+    <EmbeddedResource Include="Resources\Drawable\galaxy_red.png" />
+    <EmbeddedResource Include="Resources\Drawable\loading.png" />
+    <EmbeddedResource Include="Resources\Drawable\moon.png" />
+    <EmbeddedResource Include="Resources\Drawable\moon_small.png" />
+    <EmbeddedResource Include="Resources\Drawable\orbit.png" />
+    <EmbeddedResource Include="Resources\Drawable\orbit_ellipse.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_brown.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_cyan.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_earth.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_green.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_jupiter.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_mars.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_mercury.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_neptune.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_purple.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_red.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_saturn.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_small_blue.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_small_red.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_uranus.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_venus.png" />
+    <EmbeddedResource Include="Resources\Drawable\planet_white.png" />
+    <EmbeddedResource Include="Resources\Drawable\pluton.png" />
+    <EmbeddedResource Include="Resources\Drawable\saturn_small.png" />
+    <EmbeddedResource Include="Resources\Drawable\saturn_tiny.png" />
+    <EmbeddedResource Include="Resources\Drawable\saturn_tiny_red.png" />
+    <EmbeddedResource Include="Resources\Drawable\shooting_star.png" />
+    <EmbeddedResource Include="Resources\Drawable\space_background.png" />
+    <EmbeddedResource Include="Resources\Drawable\space_background_land.png" />
+    <EmbeddedResource Include="Resources\Drawable\star.png" />
+    <EmbeddedResource Include="Resources\Drawable\sun.png" />
+    <EmbeddedResource Include="Resources\Fonts\alagard.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+</Project>

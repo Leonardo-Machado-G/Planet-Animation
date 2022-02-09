@@ -1,0 +1,15 @@
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\obj\Debug\netstandard2.0\AnimationPlanet.csproj.AssemblyReference.cache
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\obj\Debug\netstandard2.0\AnimationPlanet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\obj\Debug\netstandard2.0\Views\App.xaml.g.cs
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\obj\Debug\netstandard2.0\AnimationPlanet.AssemblyInfoInputs.cache
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\obj\Debug\netstandard2.0\AnimationPlanet.AssemblyInfo.cs
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\obj\Debug\netstandard2.0\AnimationPlanet.csproj.CoreCompileInputs.cache
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\bin\Debug\netstandard2.0\AnimationPlanet.deps.json
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\bin\Debug\netstandard2.0\AnimationPlanet.dll
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\bin\Debug\netstandard2.0\ref\AnimationPlanet.dll
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\bin\Debug\netstandard2.0\AnimationPlanet.pdb
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\obj\Debug\netstandard2.0\AnimationPlanet.dll
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\obj\Debug\netstandard2.0\ref\AnimationPlanet.dll
+C:\Users\leosl\source\repos\AnimationPlanet\AnimationPlanet\AnimationPlanet\obj\Debug\netstandard2.0\AnimationPlanet.pdb

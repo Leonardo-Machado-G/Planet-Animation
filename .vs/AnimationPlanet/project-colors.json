@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4caf314-79d0-4af4-8c7f-ece99106a46d": {
+      "ProjectGuid": "c4caf314-79d0-4af4-8c7f-ece99106a46d",
+      "DisplayName": "AnimationPlanet.Android",
+      "ColorIndex": 0
+    },
+    "17e01c6a-b9ad-4882-a87d-b8fc5e0cdb3a": {
+      "ProjectGuid": "17e01c6a-b9ad-4882-a87d-b8fc5e0cdb3a",
+      "DisplayName": "AnimationPlanet",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "3ba91b35-38bc-4fe0-beee-b7e6c8f81617": {
+      "ProjectGuid": "3ba91b35-38bc-4fe0-beee-b7e6c8f81617",
+      "DisplayName": "AnimationPlanet.iOS",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
